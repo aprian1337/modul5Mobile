@@ -1,0 +1,2 @@
+rootProject.name='mod5-Mobile'
+include ':app'
