@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppsForSchoolDetection</string>
+    <string name="api_key_android">AIzaSyB5amHwAEwoloPPhY48g1ZDMQzrFFDttRs</string>
+    <string name="headerStart">
+        <font size="30">Temukan sekolah</font>\n
+        terdekat di daerahmu!
+    </string>
+    <string name="credits">
+        Made with love for college assignments by\n
+        Dwiky Aprian Ashari
+    </string>
+</resources>
